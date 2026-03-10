@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Maxugoski.github.io",
+  "homepage": "https://Maxugoski.github.io/Philosophy-porfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
