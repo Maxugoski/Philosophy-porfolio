@@ -2,6 +2,7 @@ import './App_new.css'
 import { FaMapMarkerAlt, FaEnvelope, FaPhone, FaLinkedin, FaGithub, FaCheckCircle, FaBook, FaGraduationCap, FaAward, FaTools, FaLightbulb, FaCode, FaRobot, FaFileAlt, FaUsers, FaCloud, FaDatabase, FaBriefcase, FaMicrosoft } from 'react-icons/fa'
 import { SiFreecodecamp } from 'react-icons/si'
 import ugoImage from '../assets/images/ugo.png'
+import ugoOfficeImage from '../assets/images/ugo-in-office.png'
 import ethicsBookCover from '../assets/images/Ethics in code cover 3 design.jpg'
 import genaiImage from '../assets/images/genai.jpg'
 import skillbuildImage from '../assets/images/skillbuild.jpg'
@@ -57,7 +58,7 @@ function App() {
           </div>
           <div className="summary-content">
             <div className="summary-image">
-              <img src={webdesignImage} alt="Web Development" />
+              <img src={ugoOfficeImage} alt="Ugochukwu in Office" />
             </div>
             <div className="summary-text">
               <p>
