@@ -21,6 +21,7 @@ function App() {
           <div className="hero-text">
             <h1 className="hero-title">Ugochukwu Maduagufor-Ogoke</h1>
             <p className="hero-subtitle">AI Ethics and Technology Policy Enthusiast</p>
+           <p className="hero-tagline">I code, therefore I am</p>
             <div className="contact-info">
               <div className="contact-item">
                 <FaMapMarkerAlt className="contact-icon" />
@@ -54,7 +55,7 @@ function App() {
         <div className="container">
           <div className="section-header">
             <FaFileAlt className="section-icon" />
-            <h2>Professional Summary</h2>
+            <h2>Background</h2>
           </div>
           <div className="summary-content">
             <div className="summary-image">
@@ -62,10 +63,16 @@ function App() {
             </div>
             <div className="summary-text">
               <p>
-                AI Ethics and Technology Policy enthusiast with a background in Philosophy and hands-on experience in digital systems, web technologies, and emerging AI tools. Skilled in analyzing the ethical implications of technology, evaluating risks in automated systems, and translating ethical principles into practical governance frameworks.
+                My journey into technology did not begin with code. It began with questions. As a philosophy student, I was drawn to understanding how human decisions, ethics, and systems of power shape the world we live in. Those questions stayed with me when I later began building digital platforms and working with web technologies and emerging AI tools.
               </p>
               <p>
-                Experienced in collaborating with multidisciplinary teams to support responsible technology development and digital platforms. Author of <strong>Ethics in Code</strong>, exploring the intersection of artificial intelligence, ethics, and society. Passionate about advancing responsible AI policies that promote fairness, transparency, accountability, and human-centered innovation.
+                While developing software and digital systems, I began to see that technology is never neutral. Every algorithm, platform, and automated system carries decisions that affect people's opportunities, voices, and access to information. Experiencing this intersection between philosophy and technology reshaped my professional focus and led me to explore the ethical responsibilities behind the systems we build.
+              </p>
+              <p>
+                Today, my work sits at the intersection of technology, ethics, and policy. I am the author of Ethics in Code, a work that reflects on how developers and technology institutions shape society through the systems they create.
+              </p>
+              <p>
+                I am particularly passionate about advancing responsible AI governance and technology policies that promote fairness, transparency, accountability, and human centered innovation, ensuring that emerging technologies empower people rather than exclude them.
               </p>
             </div>
           </div>
