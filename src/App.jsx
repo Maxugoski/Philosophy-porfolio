@@ -193,7 +193,7 @@ function App() {
                 <div className="job">
                   <h3>Research Team Lead</h3>
                   <div className="job-details">
-                    <span className="company">ActionAid — Nigeria</span>
+                    <span className="company">ActionAid/WVL (Women's Aid Collective) — Nigeria</span>
                     <span className="duration">May 2024 – Jun 2024</span>
                   </div>
                   <ul>
@@ -215,7 +215,7 @@ function App() {
                 <div className="job">
                   <h3>Mentoring and Coaching Civil Society Organisations</h3>
                   <div className="job-details">
-                    <span className="company">European Union (via WACOL) — Nigeria</span>
+                    <span className="company">European Union/British Council (via WACOL) — Nigeria</span>
                     <span className="duration">Sep 2023 – Feb 2024</span>
                   </div>
                   <ul>
