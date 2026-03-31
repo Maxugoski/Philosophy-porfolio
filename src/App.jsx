@@ -63,7 +63,7 @@ function App() {
             </div>
             <div className="summary-text">
               <p>
-                My journey into technology did not begin with code. It began with questions. As a philosophy student, I was drawn to understanding how human decisions, ethics, and systems of power shape the world we live in. Those questions stayed with me when I later began building digital platforms and working with web technologies and emerging AI tools.
+                My journey into technology did not begin with code. It began with questions. As a philosopher, I was drawn to understanding how human decisions, ethics, and systems of power shape the world we live in. Those questions stayed with me when I later began building digital platforms and working with web technologies and emerging AI tools.
               </p>
               <p>
                 While developing software and digital systems, I began to see that technology is never neutral. Every algorithm, platform, and automated system carries decisions that affect people's opportunities, voices, and access to information. Experiencing this intersection between philosophy and technology reshaped my professional focus and led me to explore the ethical responsibilities behind the systems we build.
@@ -182,6 +182,46 @@ function App() {
                     <li>Supported technical documentation and internal digital operations.</li>
                     <li>Created communication materials and supported research initiatives for advocacy campaigns.</li>
                     <li>Assisted with system setup, data organization, and digital communications.</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+
+            <div className="timeline-item">
+              <div className="timeline-marker"></div>
+              <div className="timeline-content">
+                <div className="job">
+                  <h3>Research Team Lead</h3>
+                  <div className="job-details">
+                    <span className="company">ActionAid — Nigeria</span>
+                    <span className="duration">May 2024 – Jun 2024</span>
+                  </div>
+                  <ul>
+                    <li>Led a team of researchers to investigate the impact of Nigeria's economic policies on women and girls across four cities in Enugu state.</li>
+                    <li>Defined core research objectives examining effects on women and girls' access to education, employment opportunities, healthcare, social protection frameworks, economic empowerment, and coping mechanisms.</li>
+                    <li>Coordinated all aspects of the research lifecycle, from planning data collection methodology to managing on-the-ground fieldwork.</li>
+                    <li>Fostered collaborative teamwork to ensure seamless execution of research activities in target communities.</li>
+                    <li>Adopted a community-centered approach to build trust and gather valuable insights from women and girls directly impacted by economic policies.</li>
+                    <li>Synthesized research findings into a comprehensive report highlighting key trends, challenges, and recommendations for more inclusive policy-making.</li>
+                    <li>Presented research outcomes to relevant government stakeholders, advocating for policy reforms and interventions to address the unique needs of Nigerian women and girls.</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+
+            <div className="timeline-item">
+              <div className="timeline-marker"></div>
+              <div className="timeline-content">
+                <div className="job">
+                  <h3>Mentoring and Coaching Civil Society Organisations</h3>
+                  <div className="job-details">
+                    <span className="company">European Union (via WACOL) — Nigeria</span>
+                    <span className="duration">Sep 2023 – Feb 2024</span>
+                  </div>
+                  <ul>
+                    <li>Mentored and coached 3 civil society organisations on Rights Based Approach to Advocacy as a consultant for WACOL under British Council sponsored by the EU-ACT.</li>
+                    <li>Provided strategic guidance on advocacy strategies and rights-based methodologies.</li>
+                    <li>Built organizational capacity for effective civil society engagement and policy influence.</li>
                   </ul>
                 </div>
               </div>
