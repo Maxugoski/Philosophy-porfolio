@@ -1,0 +1,51 @@
+# Ugochukwu Maduagufor-Ogoke - Portfolio & Background
+
+> I code, therefore I am
+
+Ugochukwu Maduagufor-Ogoke is the Founder and Director of Altramax Media & Altramax Learn, and an AI Ethics and Technology Policy Enthusiast based in Nigeria. With a unique background as a philosopher turned technologist, he explores the intersection of technology, ethics, and policy. He is passionate about advancing responsible AI governance, algorithmic fairness, and human-centered technology policies.
+
+## Contact & Social Links
+- **LinkedIn:** https://www.linkedin.com/in/ugochukwu-ogoke-212508177/
+- **GitHub:** https://github.com/Maxugoski
+- **Location:** Nigeria
+
+## Author
+**Ethics in Code** - A book exploring the ethical implications of artificial intelligence and modern digital technologies, focusing on responsible innovation, governance frameworks, and human-centered technology development. (Available on Amazon: https://www.amazon.com/Ethics-Code-Framework-Modern-Software/dp/B0G2B7J6QY)
+
+## Core Skills
+- **AI Ethics & Governance:** Responsible AI frameworks, Algorithmic fairness and bias awareness, AI risk and impact assessment, Technology ethics and digital governance.
+- **Research & Policy Analysis:** Policy research and documentation, Ethical impact analysis, Technical research and report writing, Data governance and privacy awareness.
+- **Technical Knowledge:** Artificial Intelligence fundamentals, Machine learning concepts, Web technologies (HTML, CSS, JavaScript, PHP, SQL), API integrations and cloud platforms.
+- **Collaboration & Communication:** Cross-functional collaboration, Policy documentation and presentations, Technical writing and thought leadership.
+
+## Professional Experience
+- **Founder and Director** @ Altramax Media & Altramax Learn
+- **Web Developer & IT Support Specialist** @ Women's Aid Collective (WACOL) — Nigeria (March 2023 – Present)
+- **Research Team Lead** @ ActionAid/WVL (Women's Aid Collective) — Nigeria (May 2024 – Jun 2024)
+- **Mentoring and Coaching Civil Society Organisations** @ European Union/British Council (via WACOL) — Nigeria (Sep 2023 – Feb 2024)
+- **Digital Communications & IT Support Intern** @ Women's Aid Collective (WACOL) — Nigeria (March 2022 – February 2023)
+- **Team Leader** @ HopefulMe Social Network (UNN Chapter) (2018 – 2021)
+
+## Education
+**Bachelor of Arts (B.A.) — Philosophy**
+University of Nigeria, Nsukka
+- Second Class Honours (Lower Division)
+- Relevant areas: Ethics and moral philosophy, Logic and critical reasoning, Philosophy of technology, Political philosophy and governance.
+
+## Certifications
+- **Generative AI Fundamentals Certification** (Microsoft / UNITAR)
+- **Responsive Web Design Certification** (FreeCodeCamp)
+- **Essential Digital Skills for Women and Youth in Africa** (UNITAR)
+
+## Technical Tools
+- **Programming / Web:** HTML, CSS, JavaScript, PHP, SQL
+- **Platforms:** WordPress, WooCommerce, Git, Cloud hosting
+- **Cloud & Systems:** AWS, Google Cloud, cPanel, API integrations
+- **Design & Research:** Figma, Adobe Creative Suite, documentation tools
+
+## Professional Interests
+- Responsible AI governance
+- AI ethics and algorithmic accountability
+- Technology policy and regulation
+- Digital rights and data privacy
+- Ethical frameworks for emerging technologies

@@ -1,5 +1,5 @@
 import './App_new.css'
-import { FaMapMarkerAlt, FaEnvelope, FaPhone, FaLinkedin, FaGithub, FaCheckCircle, FaBook, FaGraduationCap, FaAward, FaTools, FaLightbulb, FaCode, FaRobot, FaFileAlt, FaUsers, FaCloud, FaDatabase, FaBriefcase, FaMicrosoft } from 'react-icons/fa'
+import { FaMapMarkerAlt, FaLinkedin, FaGithub, FaCheckCircle, FaBook, FaGraduationCap, FaAward, FaTools, FaLightbulb, FaCode, FaRobot, FaFileAlt, FaUsers, FaCloud, FaDatabase, FaBriefcase, FaMicrosoft } from 'react-icons/fa'
 import { SiFreecodecamp } from 'react-icons/si'
 import ugoImage from '../assets/images/ugo.png'
 import ugoOfficeImage from '../assets/images/ugo-in-office.png'
@@ -20,20 +20,12 @@ function App() {
           </div>
           <div className="hero-text">
             <h1 className="hero-title">Ugochukwu Maduagufor-Ogoke</h1>
-            <p className="hero-subtitle">AI Ethics and Technology Policy Enthusiast</p>
+            <p className="hero-subtitle">Founder & Director of Altramax Media & Altramax Learn | AI Ethics and Technology Policy Enthusiast</p>
            <p className="hero-tagline">I code, therefore I am</p>
             <div className="contact-info">
               <div className="contact-item">
                 <FaMapMarkerAlt className="contact-icon" />
                 <span>Nigeria</span>
-              </div>
-              <div className="contact-item">
-                <FaEnvelope className="contact-icon" />
-                <a href="mailto:ugochukwuogoke@gmail.com">ugochukwuogoke@gmail.com</a>
-              </div>
-              <div className="contact-item">
-                <FaPhone className="contact-icon" />
-                <span>+234 813 796 0837</span>
               </div>
             </div>
             <div className="social-links">
@@ -147,6 +139,23 @@ function App() {
           </div>
           
           <div className="timeline">
+            <div className="timeline-item">
+              <div className="timeline-marker"></div>
+              <div className="timeline-content">
+                <div className="job">
+                  <h3>Founder & Director</h3>
+                  <div className="job-details">
+                    <span className="company">Altramax Media & Altramax Learn</span>
+                    <span className="duration">Present</span>
+                  </div>
+                  <ul>
+                    <li>Leading strategic initiatives, digital content creation, and educational platforms.</li>
+                    <li>Directing operations, media production, and online learning strategies.</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+
             <div className="timeline-item">
               <div className="timeline-marker"></div>
               <div className="timeline-content">
