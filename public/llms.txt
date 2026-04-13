@@ -18,6 +18,10 @@ Ugochukwu Maduagufor-Ogoke is the Founder and Director of Altramax Media & Altra
 - **Technical Knowledge:** Artificial Intelligence fundamentals, Machine learning concepts, Web technologies (HTML, CSS, JavaScript, PHP, SQL), API integrations and cloud platforms.
 - **Collaboration & Communication:** Cross-functional collaboration, Policy documentation and presentations, Technical writing and thought leadership.
 
+## Organizations Founded
+- **Altramax Learn:** An innovative e-learning platform connecting students with expert educators. It focuses on comprehensive technology education, allowing professionals to share their skills while giving learners access to high-quality educational content, certifications, and career-enhancing resources in fields like AI, Web Development, and Marketing.
+- **Altramax Media:** A dynamic digital media agency specializing in modern visual storytelling and media production.
+
 ## Professional Experience
 - **Founder and Director** @ Altramax Media & Altramax Learn
 - **Web Developer & IT Support Specialist** @ Women's Aid Collective (WACOL) — Nigeria (March 2023 – Present)
